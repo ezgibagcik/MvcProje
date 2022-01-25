@@ -1,0 +1,17 @@
+C:\Users\ezgib\source\repos\MVCKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ezgib\source\repos\MVCKampi\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\ezgib\source\repos\MVCKampi\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\ezgib\source\repos\MVCKampi\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\ezgib\source\repos\MVCKampi\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\ezgib\source\repos\MVCKampi\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ezgib\source\repos\MVCKampi\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\ezgib\source\repos\MVCKampi\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\ezgib\source\repos\MVCKampi\DataAccessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\ezgib\source\repos\MVCKampi\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\ezgib\source\repos\MVCKampi\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ezgib\source\repos\MVCKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\ezgib\source\repos\MVCKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\ezgib\source\repos\MVCKampi\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\ezgib\source\repos\MVCKampi\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\ezgib\source\repos\MVCKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writer_content.resources
+C:\Users\ezgib\source\repos\MVCKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache

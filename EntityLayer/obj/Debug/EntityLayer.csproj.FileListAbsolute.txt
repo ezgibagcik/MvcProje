@@ -1,0 +1,12 @@
+C:\Users\ezgib\source\repos\MVCKampi\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\ezgib\source\repos\MVCKampi\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\ezgib\source\repos\MVCKampi\EntityLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\ezgib\source\repos\MVCKampi\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\ezgib\source\repos\MVCKampi\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\ezgib\source\repos\MVCKampi\EntityLayer\bin\Debug\EntityFramework.dll
+C:\Users\ezgib\source\repos\MVCKampi\EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ezgib\source\repos\MVCKampi\EntityLayer\bin\Debug\EntityFramework.xml
+C:\Users\ezgib\source\repos\MVCKampi\EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ezgib\source\repos\MVCKampi\EntityLayer\obj\Debug\EntityLayer.csproj.CopyComplete
+C:\Users\ezgib\source\repos\MVCKampi\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\ezgib\source\repos\MVCKampi\EntityLayer\obj\Debug\EntityLayer.pdb
